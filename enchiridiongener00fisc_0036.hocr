@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./enchiridiongener00fisc_0036.png"; bbox 0 0 1772 2885; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 870 97 1763 305">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 870 97 1763 305">
+     <span class='ocr_line' id='line_1_1' title="bbox 1022 97 1663 125; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1022 97 1254 125; x_wconf 69' lang='grc' dir='ltr'><strong>ΒΜΠἩΘΟΝΙΑΝ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1267 97 1472 125; x_wconf 69' lang='grc' dir='ltr'><strong>ΙΝΒΤΙΤυΤΙΟΝ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1485 97 1663 125; x_wconf 65' lang='lat' dir='ltr'>mammes</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 870 136 1763 305; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 870 136 1763 305; x_wconf 55' lang='lat' dir='ltr'><strong>·1mmummu*munlmummnulum*lunanumlmumlmlml</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1042 312 1645 370">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1042 312 1645 370">
+     <span class='ocr_line' id='line_1_3' title="bbox 1042 312 1645 370; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 1042 313 1078 370; x_wconf 84' lang='lat'><strong>3</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1102 313 1257 370; x_wconf 83' lang='lat'><em>9088</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1281 312 1476 370; x_wconf 85' lang='grc'>01298</span> <span class='ocrx_word' id='word_1_8' title='bbox 1500 312 1645 370; x_wconf 88' lang='grc'>0561</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
